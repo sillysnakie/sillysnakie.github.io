@@ -1,0 +1,149 @@
+p {
+	color: #ff0000;
+	font-size: 20px;
+}
+
+.list {
+	color:#ff0000;
+	font-size: 20px;
+}
+
+ #background {
+   background-color:#000080;
+	 color:#ffffff;
+}
+
+ #button {
+	 width:60px;
+	 height:40px;
+	 color:blue;
+	 background-color:#331a00;
+	 border-radius:15px;
+}
+
+	header  {
+		width:40%;
+		border:3px solid #000000;
+		background-color:#262626;
+		margin-bottom: 30px;
+	}
+
+	header h1 {
+		padding-left: 15px;
+	}
+	
+	footer {
+		height:5%;
+		width:99%;
+		border:2px double #000000;
+		background-color:#004d00;
+	}
+
+
+	.horse { 
+		height: auto;
+		width: 97%;
+		padding: 10px;
+	}
+	
+	.borderDiv {
+		border: 10px double #b30086;
+	}
+	
+	.horse audio {
+		float:right;
+	}
+	
+	.video{
+		clear:right;
+	}
+
+	.tr {
+		color:#000900;
+		font-size;25px;	
+	}
+	
+	.image {
+		margin-top: 10px;
+	}
+	
+	.image img {
+		vertical-align: top;
+	}
+	
+	.navitem {
+		list-style-type:none;
+		display:inline;
+		padding-right:1.5em;
+	}
+	
+	#navmenu {
+		width:250px;
+		height:30px;
+		margin:auto;
+	
+	}
+	
+	a:link{ 
+		color:red;
+	} 
+
+
+	a:visited{ 
+		color:green;
+	} 
+
+
+	a:hover{ 
+		color:purple;
+	} 
+
+
+	a:active{ 
+		color:pink;
+	} 
+	
+	
+	
+	.rightside {
+		float: right;
+		width: 48%;
+	}
+	
+	
+	.leftside {
+		width: 48%;
+	}
+	
+	
+	.clearfloat {
+		clear:both;
+	}
+	
+	
+	/*postions */
+  	
+	
+	#sup1 {
+		height: 150px;
+		width: 150px;
+		background-color: purple;
+		display: inline-block;
+		
+	}
+  	
+	#sup2 {
+  		height: 150px;
+		width: 150px;
+		background-color: blue;
+		display: inline-block;
+		
+  	}
+  	
+  	#sup3 {
+  		height: 150px;
+		width: 150px;
+		background-color: green;
+		display: inline-block;
+		
+  	}
